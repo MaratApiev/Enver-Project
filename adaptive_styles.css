@@ -8,6 +8,11 @@
         font-size: 60px;
     }
 
+    .header__block-left{
+        width: 40%;
+
+    }
+
     .portfolio__item {
         width: 30%;
     }

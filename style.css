@@ -77,6 +77,8 @@ header {
     font-size: 80px;
     margin-bottom: 0;
     line-height: 1;
+    margin-top: 25%;
+
 }
 .header__desc_left {
     font-size: 21px;
@@ -253,6 +255,7 @@ footer {
     width: 98%;
     height: min-content;
     background-color: #2c2c33;
+    position: absolute;
     z-index: 1;
     top: 1%;
     right: 1%;
